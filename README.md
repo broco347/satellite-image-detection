@@ -6,6 +6,9 @@ The goal of this project is to train neural networks to autonomously recognize a
 ### Project Organization
     ├── README.md            <- The top-level README for developers using this project
     │
+    ├── LICENSE               <- Copyright and permissive license
+    │
+    │
     ├── Models               <- Keras model files saved in .h5 format
     │
     ├── Notebooks            <- Project source code in Jupyter notebook
