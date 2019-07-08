@@ -34,5 +34,5 @@ Training data was obtained from Spacenet, a collection of publicly available com
 ### Project Design
 Because most of the work done on image segmentation has been trained using datasets (such as ImageNet) that are incongruous with geospatial data, I decided to train a model from scratch. The specific architecture used within the scope of this project was based off of a Kaggle submission by [Kevin Mader](https://www.kaggle.com/kmader/synthetic-word-ocr).
 
-### LICENSE
+# LICENSE
 MIT © Brooke Ann Coco
